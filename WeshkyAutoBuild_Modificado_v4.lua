@@ -4,7 +4,7 @@
 
 
 local L_1_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
-local L_2_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
+
 
 _G.baseColor = Color3.fromRGB(15, 25, 75)
 
