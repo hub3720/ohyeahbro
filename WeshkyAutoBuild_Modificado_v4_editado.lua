@@ -3578,13 +3578,13 @@ end
 do
 	local L_759_ = L_93_:AddWindow("Contos-AutoBuIld", {
 		main_Pos = UDim2.new(0, 100, 0, 100),
-		min_size = Vector2.new(320, 400),
+		min_size = Vector2.new(330, 400),
 		can_resize = true,
 		main_text_color = Color3.fromRGB(255, 255, 255)
 	})
 	local L_760_ = L_93_:AddWindow("Blocks", {
 		main_Pos = UDim2.new(0, 600, 0, 100),
-		min_size = Vector2.new(250, 400),
+		min_size = Vector2.new(0, 0),
 		can_resize = true,
 		main_text_color = Color3.fromRGB(255, 255, 255)
 	})
