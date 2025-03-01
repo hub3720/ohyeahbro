@@ -2765,7 +2765,7 @@ function BetaInstantLoad()
 
     -- If not stopped, proceed with processing all parts
 	if not L_416_ then
-		L_417_func("Loading.......", "Build will start shortly", Color3.fromRGB(255, 84, 84))
+		L_417_func("Loading.......", "Wait Please.", Color3.fromRGB(255, 84, 84))
 		L_445_func()
 	end
 end
